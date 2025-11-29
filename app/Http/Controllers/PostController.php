@@ -9,6 +9,7 @@ use Inertia\Inertia;
 
 class PostController extends Controller
 {
+    //post with user// 
     public function index()
     {
         // Logic to list all posts
